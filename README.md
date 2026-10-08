@@ -1,78 +1,127 @@
-# 👋 Olá, eu sou o Matheus!
+<div align="center">
 
-### 💻 Estudante de ADS | Desenvolvedor em formação | Tecnologia & Inovação
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Matheus%20Nascimento&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Tecnologia%20%26%20Desenvolvimento&descAlignY=60&descSize=17"/>
+
+### 👋 Olá! Eu sou o Matheus.
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Desenvolvendo minhas habilidades em **Desenvolvimento Web e Back-end**
-🤖 Explorando **Inteligência Artificial, Dados e Automação**
-🚀 Sempre buscando transformar ideias em projetos reais
+💻 Aprendendo e desenvolvendo projetos na área de tecnologia
+🚀 Interessado em **Desenvolvimento, IA, Dados e Automação**
+
+<br>
+
+<a href="https://github.com/Umatheushx">
+<img src="https://img.shields.io/badge/GitHub-Umatheushx-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e por aprender coisas novas na prática.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
 
-Atualmente estou desenvolvendo projetos utilizando **HTML, CSS, JavaScript, Node.js e Git**, enquanto amplio meus conhecimentos em **APIs, Back-end, Banco de Dados, Inteligência Artificial e Dados**.
+Gosto de aprender colocando a mão na massa, criando projetos e buscando entender como as coisas funcionam.
 
-Gosto de transformar ideias em soluções e aprender através de projetos reais.
+Atualmente estou estudando e praticando principalmente **HTML, CSS, JavaScript e Git/GitHub**, além de começar a explorar outras áreas da tecnologia.
 
-Meu objetivo é construir uma carreira na área de tecnologia, evoluindo constantemente e buscando oportunidades para colocar meus conhecimentos em prática.
+Tenho interesse em **desenvolvimento de software, Inteligência Artificial, Dados e Automação** e quero continuar evoluindo através de projetos, estudos e experiências profissionais.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ O que estou aprendendo
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
+
+> Estou em processo de aprendizado e evolução constante. 🚀
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projeto em destaque
 
 ### 🍟 Cone House
 
-Desenvolvimento de uma solução digital para um negócio real, envolvendo **cardápio digital, site, estrutura de pedidos e futuras funcionalidades de gerenciamento**.
+Projeto que estou desenvolvendo para um **negócio real**, com o objetivo de criar uma experiência digital para clientes e facilitar alguns processos do negócio.
 
-**Tecnologias:** HTML • CSS • JavaScript • Node.js • Express
+**Entre as ideias do projeto:**
 
----
+* Cardápio digital
+* Site responsivo
+* Estrutura para pedidos
+* Informações de produtos
+* Sistema de gerenciamento
+* Futuras integrações
 
-### 🌐 Projetos Web
-
-Projetos desenvolvidos durante meus estudos e formação, colocando em prática conceitos de:
-
-* Desenvolvimento de interfaces
-* Responsividade
-* JavaScript
-* APIs
-* Lógica de programação
-* Back-end
-* Git e GitHub
+**Tecnologias utilizadas:**
+`HTML` `CSS` `JavaScript` `Git`
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente
 
-* JavaScript
-* Node.js
-* APIs
-* Back-end
-* Banco de Dados
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+
+💻 Estudando desenvolvimento e programação
+
+🌐 Criando meus primeiros projetos
+
+🤖 Explorando o universo da Inteligência Artificial
+
+📊 Conhecendo a área de Dados
+
+🚀 Buscando oportunidades para aprender e crescer profissionalmente
+
+---
+
+## 🎯 Meus objetivos
+
+Meu objetivo é construir uma carreira na área de tecnologia e, aos poucos, descobrir em qual área consigo gerar mais impacto.
+
+Tenho interesse principalmente em:
+
+* Desenvolvimento de Software
+* Desenvolvimento Web
 * Inteligência Artificial
 * Dados
 * Automação
-* Cloud
+
+Por enquanto, meu foco é **aprender, praticar e construir**.
 
 ---
 
-## 🎯 Objetivos
+## 📊 GitHub
 
-Busco evoluir principalmente nas áreas de:
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Umatheushx&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umatheushx&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a **oportunidades de estágio, projetos, networking e aprendizado**.
+
+<div align="center">
+
+<a href="https://github.com/Umatheushx">
+<img src="https://img.shields.io/badge/GitHub-Umatheushx-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Aprendendo hoje para construir coisas melhores amanhã.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
