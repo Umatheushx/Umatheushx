@@ -124,4 +124,16 @@ Estou aberto a **oportunidades de estágio, projetos, networking e aprendizado**
 
 </div>
 
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umatheushx/Umatheushx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umatheushx/Umatheushx/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Umatheushx/Umatheushx/output/github-snake.svg">
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
